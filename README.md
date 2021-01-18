@@ -1,9 +1,10 @@
 # LISEH 2021 [WORK IN PROGRESS]
 
-## Communication
+The school has gone digital. As a result, it has an adapted concept. In the mornings there will be input sessions from the lecturers. In the afternoon there will be exercises, which can be worked on independently after the lunch break. Then, there will be a, additional tutorial session, where questions about the exercise or the solution will be discussed together.
 
-- Zoom
-- Slack-Workspace
+Lectures and tutorials will take place via [Zoom](). On this page you can find all materials and via the [Slack channel]() you can exchange information with the lecturers, tutors and colleagues.
+
+Participants will be organized in small groups and will have their own tutor, who will be the direct contact person for the course of the School and the exercises.
 
 ## Program
 
@@ -13,7 +14,7 @@
 
 |                 | Lecture                                                      | Lecturer                                     | Note |
 | --------------- | ------------------------------------------------------------ | -------------------------------------------- | ---- |
-| 09:00 - 10:00   | Introduction                                                 | Georg Vogeler                                |      |
+| 09:00 - 10:00   | Introduction                                                 | Georg Vogeler (?)                            |      |
 | *10:00 - 10:15* | *Break*                                                      |                                              |      |
 | 10:15 - 11:15   | [Identifying standards and technologies](https://docs.google.com/presentation/d/1T7SW8qbnpFYdLQEOIN8StRZJ4cMedFHYWL08Ve35WXI/edit?usp=sharing) | Christopher Pollin, <br />Gerlinde Schneider |      |
 | *11:15 - 11:30* | *Break*                                                      |                                              |      |
@@ -31,13 +32,13 @@ Writing, visualizing and validating RDF
 
 #### Input Session
 
-|                 | Lecture                                | Lecturer                            | Note |
-| --------------- | -------------------------------------- | ----------------------------------- | ---- |
-| 09:00 - 10:00   | Linked Data in Linguistics             | John McCrae, <br />Thierry Declerck |      |
-| *10:00 - 10:15* | *Break*                                |                                     |      |
-| 10:15 - 11:15   | Linked Data in Linguistics             | John McCrae, <br />Thierry Declerck |      |
-| *11:15 - 11:30* | *Break*                                |                                     |      |
-| 11:30 - 12:30   | Linked Data Curation using Open Refine | Christian Steiner                   |      |
+|                 | Lecture                                | Lecturer                                | Note |
+| --------------- | -------------------------------------- | --------------------------------------- | ---- |
+| 09:00 - 10:00   | Linked Data in Linguistics             | John McCrae, <br />Thierry Declerck (?) |      |
+| *10:00 - 10:15* | *Break*                                |                                         |      |
+| 10:15 - 11:15   | Linked Data in Linguistics             | John McCrae, <br />Thierry Declerck (?) |      |
+| *11:15 - 11:30* | *Break*                                |                                         |      |
+| 11:30 - 12:30   | Linked Data Curation using Open Refine | Christian Steiner (?)                   |      |
 
 #### Exercise Session
 
@@ -49,13 +50,13 @@ Open Refine
 
 #### Input Session
 
-|                 | Lecture                    | Lecturer          | Note |
-| --------------- | -------------------------- | ----------------- | ---- |
-| 09:00 - 10:00   | Introduction to Ontologies | Frederike Neuber  |      |
-| *10:00 - 10:15* | *Break*                    |                   |      |
-| 10:15 - 11:15   | More Ontology              | ?                 |      |
-| *11:15 - 11:30* | *Break*                    |                   |      |
-| 11:30 - 12:30   | CIDOC                      | Athanasios Velios |      |
+|                 | Lecture                    | Lecturer              | Note |
+| --------------- | -------------------------- | --------------------- | ---- |
+| 09:00 - 10:00   | Introduction to Ontologies | Frederike Neuber (?)  |      |
+| *10:00 - 10:15* | *Break*                    |                       |      |
+| 10:15 - 11:15   | More Ontology              | (?)                   |      |
+| *11:15 - 11:30* | *Break*                    |                       |      |
+| 11:30 - 12:30   | CIDOC                      | Athanasios Velios (?) |      |
 
 #### Exercise Session
 
@@ -67,13 +68,13 @@ CIDOC
 
 #### Input Session
 
-|                 | Lecture                                                      | Lecturer                        | Note |
-| --------------- | ------------------------------------------------------------ | ------------------------------- | ---- |
-| 09:00 - 10:00   | Semantic Annotation without the Pointy Brackets – <br />an introduction to Recogito | Rebecca Kahn,<br />Rainer Simon |      |
-| *10:00 - 10:15* | *Break*                                                      |                                 |      |
-| 10:15 - 11:15   | Semantic Annotation without the Pointy Brackets – <br />an introduction to Recogito | Rebecca Kahn,<br />Rainer Simon |      |
-| *11:15 - 11:30* | *Break*                                                      |                                 |      |
-| 11:30 - 12:30   | Introduction to SPARQL                                       |                                 |      |
+|                 | Lecture                                                      | Lecturer                            | Note |
+| --------------- | ------------------------------------------------------------ | ----------------------------------- | ---- |
+| 09:00 - 10:00   | Semantic Annotation without the Pointy Brackets – <br />an introduction to Recogito | Rebecca Kahn,<br />Rainer Simon (?) |      |
+| *10:00 - 10:15* | *Break*                                                      |                                     |      |
+| 10:15 - 11:15   | Semantic Annotation without the Pointy Brackets – <br />an introduction to Recogito | Rebecca Kahn,<br />Rainer Simon (?) |      |
+| *11:15 - 11:30* | *Break*                                                      |                                     |      |
+| 11:30 - 12:30   | Introduction to SPARQL                                       | Matthias Schlögl (?)                |      |
 
 #### Exercise Session
 
