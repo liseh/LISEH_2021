@@ -1,12 +1,17 @@
 # [WORK IN PROGRESS]
 
+## Communication
+
+- Zoom
+- Slack-Workspace
+
 ## Program
 
 ### Tuesday - 06.04
 
 #### Input Session
 
-|                 | Lecture             | Lecturer                                     |      |
+|                 | Lecture             | Lecturer                                     | Note |
 | --------------- | ------------------- | -------------------------------------------- | ---- |
 | 09:00 - 10:00   | Introduction        | Georg Vogeler                                |      |
 | *10:00 - 10:15* | *Break*             |                                              |      |
@@ -22,7 +27,7 @@ Writing, visualizing and validating RDF
 
 #### Input Session
 
-|                 | Lecture                                | Lecturer                            |      |
+|                 | Lecture                                | Lecturer                            | Note |
 | --------------- | -------------------------------------- | ----------------------------------- | ---- |
 | 09:00 - 10:00   | Linked Data in Linguistics             | John McCrae, <br />Thierry Declerck |      |
 | *10:00 - 10:15* | *Break*                                |                                     |      |
@@ -40,7 +45,7 @@ Open Refine
 
 #### Input Session
 
-|                 | Lecture                    | Lecturer          |      |
+|                 | Lecture                    | Lecturer          | Note |
 | --------------- | -------------------------- | ----------------- | ---- |
 | 09:00 - 10:00   | Introduction to Ontologies | Frederike Neuber  |      |
 | *10:00 - 10:15* | *Break*                    |                   |      |
@@ -58,7 +63,7 @@ CIDOC
 
 #### Input Session
 
-|                 | Lecture                                                      | Lecturer                        |      |
+|                 | Lecture                                                      | Lecturer                        | Note |
 | --------------- | ------------------------------------------------------------ | ------------------------------- | ---- |
 | 09:00 - 10:00   | Semantic Annotation without the Pointy Brackets – <br />an introduction to Recogito | Rebecca Kahn,<br />Rainer Simon |      |
 | *10:00 - 10:15* | *Break*                                                      |                                 |      |
@@ -71,7 +76,5 @@ CIDOC
 Recogito
 
 Advanced SPARQL
-
-Further Learning Material
 
 ## Further Learning Material
