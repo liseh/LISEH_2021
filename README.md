@@ -11,15 +11,19 @@
 
 #### Input Session
 
-|                 | Lecture             | Lecturer                                     | Note |
-| --------------- | ------------------- | -------------------------------------------- | ---- |
-| 09:00 - 10:00   | Introduction        | Georg Vogeler                                |      |
-| *10:00 - 10:15* | *Break*             |                                              |      |
-| 10:15 - 11:15   | Web of Data Stack 1 | Christopher Pollin, <br />Gerlinde Schneider |      |
-| *11:15 - 11:30* | *Break*             |                                              |      |
-| 11:30 - 12:30   | Web of Data Stack 2 | Christopher Pollin, <br />Gerlinde Schneider |      |
+|                 | Lecture                                                      | Lecturer                                     | Note |
+| --------------- | ------------------------------------------------------------ | -------------------------------------------- | ---- |
+| 09:00 - 10:00   | Introduction                                                 | Georg Vogeler                                |      |
+| *10:00 - 10:15* | *Break*                                                      |                                              |      |
+| 10:15 - 11:15   | [Identifying standards and technologies](https://docs.google.com/presentation/d/1T7SW8qbnpFYdLQEOIN8StRZJ4cMedFHYWL08Ve35WXI/edit?usp=sharing) | Christopher Pollin, <br />Gerlinde Schneider |      |
+| *11:15 - 11:30* | *Break*                                                      |                                              |      |
+| 11:30 - 12:30   | [RDF & RDFS](https://docs.google.com/presentation/d/1uv8o7v4b0DWM75JQBEG9GNrMiq2wYY45Drq7oIvE0n8/edit?usp=sharing) | Christopher Pollin, <br />Gerlinde Schneider |      |
 
-#### Exercise Session
+#### Exercise Session [13:30 - 16:00]
+
+Working Time: 13:30 - 15:00
+
+Tutorial: 15:15 - 16:15
 
 Writing, visualizing and validating RDF
 
