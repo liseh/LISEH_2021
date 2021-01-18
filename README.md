@@ -14,11 +14,12 @@ Participants will be organized in small groups and will have their own tutor, wh
 
 |                 | Lecture                                                      | Lecturer                                     | Note |
 | --------------- | ------------------------------------------------------------ | -------------------------------------------- | ---- |
-| 09:00 - 10:00   | Introduction                                                 | Georg Vogeler (?)                            |      |
-| *10:00 - 10:15* | *Break*                                                      |                                              |      |
-| 10:15 - 11:15   | [Identifying standards and technologies](https://docs.google.com/presentation/d/1T7SW8qbnpFYdLQEOIN8StRZJ4cMedFHYWL08Ve35WXI/edit?usp=sharing) | Christopher Pollin, <br />Gerlinde Schneider |      |
-| *11:15 - 11:30* | *Break*                                                      |                                              |      |
-| 11:30 - 12:30   | [RDF & RDFS](https://docs.google.com/presentation/d/1uv8o7v4b0DWM75JQBEG9GNrMiq2wYY45Drq7oIvE0n8/edit?usp=sharing) | Christopher Pollin, <br />Gerlinde Schneider |      |
+| 09:00 - 09:15   | Welcoming, Program overview                                  | Tanja Wissik (?)                             |      |
+| 09:15 - 10:00   | General introduction                                         | Georg Vogeler (?)                            |      |
+| *10:15 - 10:30* | *Break*                                                      |                                              |      |
+| 10:30 - 11:30   | [Identifying standards and technologies](https://docs.google.com/presentation/d/1T7SW8qbnpFYdLQEOIN8StRZJ4cMedFHYWL08Ve35WXI/edit?usp=sharing) | Christopher Pollin, <br />Gerlinde Schneider |      |
+| 11:30 - 12:30   | *Break*                                                      |                                              |      |
+| 12:30 - 12:45   | [RDF & RDFS](https://docs.google.com/presentation/d/1uv8o7v4b0DWM75JQBEG9GNrMiq2wYY45Drq7oIvE0n8/edit?usp=sharing) | Christopher Pollin, <br />Gerlinde Schneider |      |
 
 #### Exercise Session [13:30 - 16:00]
 
@@ -40,7 +41,7 @@ Writing, visualizing and validating RDF
 | *11:15 - 11:30* | *Break*                                |                                         |      |
 | 11:30 - 12:30   | Linked Data Curation using Open Refine | Christian Steiner (?)                   |      |
 
-#### Exercise Session
+#### Exercise Session  [13:30 - 16:00]
 
 Linked Data
 
@@ -50,15 +51,15 @@ Open Refine
 
 #### Input Session
 
-|                 | Lecture                    | Lecturer              | Note |
-| --------------- | -------------------------- | --------------------- | ---- |
-| 09:00 - 10:00   | Introduction to Ontologies | Frederike Neuber (?)  |      |
-| *10:00 - 10:15* | *Break*                    |                       |      |
-| 10:15 - 11:15   | More Ontology              | (?)                   |      |
-| *11:15 - 11:30* | *Break*                    |                       |      |
-| 11:30 - 12:30   | CIDOC                      | Athanasios Velios (?) |      |
+|                 | Lecture                 | Lecturer              | Note |
+| --------------- | ----------------------- | --------------------- | ---- |
+| 09:00 - 10:00   | Introduction to Ontoloy | Frederike Neuber (?)  |      |
+| *10:00 - 10:15* | *Break*                 |                       |      |
+| 10:15 - 11:15   | More Ontology           | (?)                   |      |
+| *11:15 - 11:30* | *Break*                 |                       |      |
+| 11:30 - 12:30   | CIDOC                   | Athanasios Velios (?) |      |
 
-#### Exercise Session
+#### Exercise Session  [13:30 - 16:00]
 
 Ontology
 
@@ -74,9 +75,11 @@ CIDOC
 | *10:00 - 10:15* | *Break*                                                      |                                     |      |
 | 10:15 - 11:15   | Semantic Annotation without the Pointy Brackets – <br />an introduction to Recogito | Rebecca Kahn,<br />Rainer Simon (?) |      |
 | *11:15 - 11:30* | *Break*                                                      |                                     |      |
-| 11:30 - 12:30   | Introduction to SPARQL                                       | Matthias Schlögl (?)                |      |
+| 11:30 - 12:30   | Introduction to SPARQL                                       | (?)                                 |      |
+| *12:30 - 12:45* | *Break*                                                      |                                     |      |
+| 12:45 - 13:45   | Querying the web of data (Rest and SPARQL)                   | Matthias Schlögl (?)                |      |
 
-#### Exercise Session
+#### Exercise Session  [13:30 - 16:00]
 
 Recogito
 
