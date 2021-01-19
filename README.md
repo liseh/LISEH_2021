@@ -1,10 +1,12 @@
 # LISEH 2021 [WORK IN PROGRESS]
 
-The school has gone digital. As a result, it has an adapted concept. In the mornings there will be input sessions from the lecturers. In the afternoon there will be exercises, which can be worked on independently after the lunch break. Then, there will be a, additional tutorial session, where questions about the exercise or the solution will be discussed together.
+LISEH 2021 takes place virtually. During the morning session will me lectures of 45 min each. The input sessions are complimented by exercises in the afternoon, the *Lightning Talks* or the *Public Lecture*. All of the exercises are designed in such a way that they consist of a *Working Time* on your own or in groups together with a tutor and of the Afternoon meeting, where the solutions are discuses.
 
-Lectures and tutorials will take place via [Zoom](). On this page you can find all materials and via the [Slack channel]() you can exchange information with the lecturers, tutors and colleagues.
+Lectures and tutorials will take place via [Zoom](). Here on this page you can find all materials. Communication is supported by the use of this [Slack channel](). There you can ask questions,discuss the exercise and chat.
 
-Participants will be organized in small groups and will have their own tutor, who will be the direct contact person for the course of the School and the exercises.
+Participants are organized in small groups and have their own tutor, who will be the direct contact person during LISEH 2021.
+
+### Contact
 
 ## Program
 
