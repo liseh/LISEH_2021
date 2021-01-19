@@ -16,7 +16,7 @@ Participants will be organized in small groups and will have their own tutor, wh
 
 |                 | Lecture                                                      | Lecturer                                     |
 | --------------- | ------------------------------------------------------------ | -------------------------------------------- |
-| 09:00 - 09:45   | Welcoming, Program overview                                  | Tanja Wissik (?)                             |
+| 09:00 - 09:45   | Welcoming, Program overview                                  |                                              |
 | 09:45 - 10:30   | General introduction                                         | Georg Vogeler (?)                            |
 | *10:30 - 10:45* | *Break*                                                      |                                              |
 | 10:45 - 11:30   | [Identifying standards and technologies: Web of Data Technology Stack](https://docs.google.com/presentation/d/1T7SW8qbnpFYdLQEOIN8StRZJ4cMedFHYWL08Ve35WXI/edit?usp=sharing) | Christopher Pollin, <br />Gerlinde Schneider |
