@@ -25,13 +25,15 @@ Participants will be organized in small groups and will have their own tutor, wh
 | 12:30 - 12:45   | *Break*                                                      |                                              |
 | 12:45 - 13:30   | Identifying standards and technologies: SPARQL               | (?)                                          |
 
-#### Exercise Session [14:15 - 16:15]
+#### Exercise Session [14:15 - 16:00]
 
 Exercise: Writing RDF, validate it, ingest it into Blazegraph, Query RDF data with SPARQL
 
-Working Time: 15:15 - 16:15
+Working Time: 14:15 - 15:15
 
-Afternoon meeting: 16:15 - 17:00
+Afternoon meeting: 15:15 - 16:00
+
+Lightning Talks / Poster Session: 16:15 - 17:30
 
 ### Wednesday - 07.04.2021
 
@@ -75,15 +77,17 @@ Public lecture: 16:15 - 17:30  (Harald Sack ?)
 | 12:00 - 12:15   | *Break*                    |                       |
 | 12:15 - 13:00   | CIDCO                      | Athanasios Velios (?) |
 
-#### Exercise Session  [13:45 - 16:00]
+#### Exercise Session  [13:45 - 17:00]
 
 Exercise: Ontology, CIDCO modelling
 
-Working Time CIDOC - Exercise : 13:45 - 15:00
+Working Time (CIDOC) : 13:45 - 14:30
 
-Afternoon meeting: 15:00 - 16:00
+Afternoon meeting (CIDOC): 14:30 - 15:15
 
-Lightning Talks / Poster Session: 16:15 - 17:30
+Working Time (Ontology) : 15:30 - 16:15
+
+Afternoon meeting (Ontology): 16:15 - 17:00
 
 ### Friday  - 09.04.2021
 
