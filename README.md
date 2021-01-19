@@ -10,6 +10,8 @@ Participants will be organized in small groups and will have their own tutor, wh
 
 ### Tuesday - 06.04.2021
 
+------
+
 #### Input Sessions
 
 |                 | Lecture                                                      | Lecturer                                     | Note |
@@ -31,6 +33,8 @@ Afternoon meeting: 16:30 - 17:30
 
 ### Wednesday - 07.04.2021
 
+------
+
 #### Input Sessions
 
 |                 | Lecture                                | Lecturer                                | Note |
@@ -50,6 +54,8 @@ Afternoon meeting: 15:00 - 16:00
 Public lecture: 16:15 - 17:30
 
 ### Thursday - 08.04.2021
+
+------
 
 #### Input Sessions
 
@@ -71,7 +77,9 @@ Lightning Talks / Poster: 16:15 - 17:30
 
 ### Friday  - 09.04.2021
 
-### Input Sessions
+------
+
+#### Input Sessions
 
 |                 | Lecture                                                      | Lecturer                            | Note |
 | --------------- | ------------------------------------------------------------ | ----------------------------------- | ---- |
