@@ -25,11 +25,13 @@ Participants will be organized in small groups and will have their own tutor, wh
 | 12:30 - 12:45   | *Break*                                                      |                                              |
 | 12:45 - 13:30   | Identifying standards and technologies: SPARQL               | (?)                                          |
 
-#### Exercise Session [15:15 - 17:30]
+#### Exercise Session [14:15 - 16:15]
+
+Exercise: Writing, validation RDF; simple RDFs, simple SPARQL query
 
 Working Time: 15:15 - 16:15
 
-Afternoon meeting: 16:30 - 17:30
+Lightning Talks / Poster: 16:30 - 17:30
 
 ### Wednesday - 07.04.2021
 
@@ -37,18 +39,23 @@ Afternoon meeting: 16:30 - 17:30
 
 #### Input Sessions
 
-|                 | Lecture                                    | Lecturer                                |
-| --------------- | ------------------------------------------ | --------------------------------------- |
-| 09:00 - 10:00   | Linked Data in Linguistics                 | John McCrae, <br />Thierry Declerck (?) |
-| *10:00 - 10:15* | *Break*                                    |                                         |
-| 10:15 - 11:15   | Linked Data in Linguistics                 | John McCrae, <br />Thierry Declerck (?) |
-| *11:15 - 11:30* | *Break*                                    |                                         |
-| 11:30 - 12:30   | Linked Data Curation using Open Refine     | Christian Steiner (?)                   |
-| 11:30 - 12:30   | Querying the web of data (Rest and SPARQL) | Matthias Schlögl (?)                    |
+|                 | Lecture                                    | Lecturer              |
+| :-------------- | ------------------------------------------ | --------------------- |
+| 09:00 - 09:45   | Querying the web of data (Rest and SPARQL) | Matthias Schlögl (?)  |
+| *09:45 - 10:00* | *Break*                                    |                       |
+| 10:00 - 10:45   | Querying the web of data (Rest and SPARQL) | Matthias Schlögl (?)  |
+| *11:00 - 11:15* | *Break*                                    |                       |
+| 11:15 - 12:00   | Linked Data Curation using Open Refine     | Christian Steiner (?) |
+| 12:00 - 12:15   | *Break*                                    |                       |
+| 12:15 - 13:00   | Linked Data Curation using Open Refine     | Christian Steiner (?) |
+|                 |                                            |                       |
+|                 |                                            |                       |
 
-#### Exercise Session  [13:15 - 16:00]
+#### Exercise Session  [13:45 - 16:00]
 
-Working Time: 13:15 - 15:00
+Exercise: SPARQL Query; OpenRefine Exercise
+
+Working Time: 13:45 - 15:00
 
 Afternoon meeting: 15:00 - 16:00
 
@@ -60,21 +67,26 @@ Public lecture: 16:15 - 17:30  (Harald Sack ?)
 
 #### Input Sessions
 
-|                 | Lecture                  | Lecturer              |
-| --------------- | ------------------------ | --------------------- |
-| 09:00 - 10:00   | Introduction to Ontology | Frederike Neuber (?)  |
-| *10:00 - 10:15* | *Break*                  |                       |
-| 10:15 - 11:15   | More Ontology            | Harald Sack (?)       |
-| *11:15 - 11:30* | *Break*                  |                       |
-| 11:30 - 12:30   | CIDOC                    | Athanasios Velios (?) |
+|                 | Lecture                    | Lecturer              |
+| --------------- | -------------------------- | --------------------- |
+| 09:00 - 09:45   | Introduction to Ontology 1 | Frederike Neuber (?)  |
+| 09:45 - 10:00   | *Break*                    |                       |
+| 10:15 - 11:00   | Introduction to Ontology 2 | Frederike Neuber (?)  |
+| *11:00 - 11:15* | *Break*                    |                       |
+| 11:15 - 12:00   | Ontology                   | (Harald Sack ?)       |
+| 12:00 - 12:15   | *Break*                    |                       |
+| 12:15 - 12:45   | CIDCO                      | Athanasios Velios (?) |
+| 12:15 - 13:00   | CIDCO                      |                       |
 
-#### Exercise Session  [13:15 - 16:00]
+#### Exercise Session  [13:45 - 17:30]
 
-Working Time: 13:15 - 15:00
+Ontology, Cidoc modelling
+
+Working Time: 13:45 - 15:00
 
 Afternoon meeting: 15:00 - 16:00
 
-Lightning Talks / Poster: 16:15 - 17:30
+....
 
 ### Friday  - 09.04.2021
 
@@ -82,13 +94,15 @@ Lightning Talks / Poster: 16:15 - 17:30
 
 #### Input Sessions
 
-|                 | Lecture                                                      | Lecturer                            |
-| --------------- | ------------------------------------------------------------ | ----------------------------------- |
-| 09:00 - 10:00   | Semantic Annotation without the Pointy Brackets – <br />an introduction to Recogito | Rebecca Kahn,<br />Rainer Simon (?) |
-| *10:00 - 10:15* | *Break*                                                      |                                     |
-| 10:15 - 11:15   | Semantic Annotation without the Pointy Brackets – <br />an introduction to Recogito | Rebecca Kahn,<br />Rainer Simon (?) |
-| *11:15 - 11:30* | *Break*                                                      |                                     |
-|                 |                                                              |                                     |
+|                 | Lecture                                                      | Lecturer                                       |
+| --------------- | ------------------------------------------------------------ | ---------------------------------------------- |
+| 09:00 - 09:45   | Semantic Annotation without the Pointy Brackets – <br />an introduction to Recogito | Rebecca Kahn,<br />Rainer Simon (?)            |
+| *09:45 - 10:00* | *Break*                                                      |                                                |
+| 10:15 - 11:00   | Semantic Annotation without the Pointy Brackets – <br />an introduction to Recogito | Rebecca Kahn,<br />Rainer Simon (?)            |
+| *11:00 - 11:15* | *Break*                                                      |                                                |
+| 11:15 - 12:00   | Linked Data in Linguistics                                   | *Break*John McCrae, <br />Thierry Declerck (?) |
+| 12:00 - 12:15   | *Break*                                                      |                                                |
+| 12:15 - 13:00   | Linked Data in Linguistics                                   | *Break*John McCrae, <br />Thierry Declerck (?) |
 
 #### Exercise Session  [13:15 - 16:00]
 
