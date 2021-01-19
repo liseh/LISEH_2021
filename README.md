@@ -51,7 +51,7 @@ Working Time: 13:15 - 15:00
 
 Afternoon meeting: 15:00 - 16:00
 
-Public lecture: 16:15 - 17:30
+Public lecture: 16:15 - 17:30  (Harald Sack ?)
 
 ### Thursday - 08.04.2021
 
@@ -63,7 +63,7 @@ Public lecture: 16:15 - 17:30
 | --------------- | ------------------------ | --------------------- |
 | 09:00 - 10:00   | Introduction to Ontology | Frederike Neuber (?)  |
 | *10:00 - 10:15* | *Break*                  |                       |
-| 10:15 - 11:15   | More Ontology            | (?)                   |
+| 10:15 - 11:15   | More Ontology            | Harald Sack (?)       |
 | *11:15 - 11:30* | *Break*                  |                       |
 | 11:30 - 12:30   | CIDOC                    | Athanasios Velios (?) |
 
