@@ -95,15 +95,15 @@ Afternoon meeting (Ontology): 16:15 - 17:00
 
 #### Input Sessions
 
-|                 | Lecture                                                      | Lecturer                                       |
-| --------------- | ------------------------------------------------------------ | ---------------------------------------------- |
-| 09:00 - 09:45   | Semantic Annotation without the Pointy Brackets – <br />an introduction to Recogito | Rebecca Kahn,<br />Rainer Simon (?)            |
-| *09:45 - 10:00* | *Break*                                                      |                                                |
-| 10:15 - 11:00   | Semantic Annotation without the Pointy Brackets – <br />an introduction to Recogito | Rebecca Kahn,<br />Rainer Simon (?)            |
-| *11:00 - 11:15* | *Break*                                                      |                                                |
-| 11:15 - 12:00   | Linked Data in Linguistics                                   | *Break*John McCrae, <br />Thierry Declerck (?) |
-| 12:00 - 12:15   | *Break*                                                      |                                                |
-| 12:15 - 13:00   | Linked Data in Linguistics                                   | *Break*John McCrae, <br />Thierry Declerck (?) |
+|                 | Lecture                                                      | Lecturer                                |
+| --------------- | ------------------------------------------------------------ | --------------------------------------- |
+| 09:00 - 09:45   | Semantic Annotation without the Pointy Brackets – <br />an introduction to Recogito | Rebecca Kahn,<br />Rainer Simon (?)     |
+| *09:45 - 10:00* | *Break*                                                      |                                         |
+| 10:15 - 11:00   | Semantic Annotation without the Pointy Brackets – <br />an introduction to Recogito | Rebecca Kahn,<br />Rainer Simon (?)     |
+| *11:00 - 11:15* | *Break*                                                      |                                         |
+| 11:15 - 12:00   | Linked Data in Linguistics                                   | John McCrae, <br />Thierry Declerck (?) |
+| 12:00 - 12:15   | *Break*                                                      |                                         |
+| 12:15 - 13:00   | Linked Data in Linguistics                                   | John McCrae, <br />Thierry Declerck (?) |
 
 #### Exercise Session  [13:15 - 16:00]
 
