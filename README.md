@@ -41,15 +41,15 @@ Lightning Talks / Poster Session: 16:15 - 17:30
 
 #### Input Sessions
 
-|                 | Lecture                                    | Lecturer              |
-| :-------------- | ------------------------------------------ | --------------------- |
-| 09:00 - 09:45   | Querying the web of data (Rest and SPARQL) | Matthias Schlögl (?)  |
-| *09:45 - 10:00* | *Break*                                    |                       |
-| 10:00 - 10:45   | Querying the web of data (Rest and SPARQL) | Matthias Schlögl (?)  |
-| *11:00 - 11:15* | *Break*                                    |                       |
-| 11:15 - 12:00   | Linked Data Curation using Open Refine     | Christian Steiner (?) |
-| 12:00 - 12:15   | *Break*                                    |                       |
-| 12:15 - 13:00   | Linked Data Curation using Open Refine     | Christian Steiner (?) |
+|                 | Lecture                                                      | Lecturer                       |
+| :-------------- | ------------------------------------------------------------ | ------------------------------ |
+| 09:00 - 09:45   | Querying the web of data (Rest and SPARQL)                   | Matthias Schlögl (?)           |
+| *09:45 - 10:00* | *Break*                                                      |                                |
+| 10:00 - 10:45   | Querying the web of data (Rest and SPARQL)                   | Matthias Schlögl (?)           |
+| *11:00 - 11:15* | *Break*                                                      |                                |
+| 11:15 - 12:00   | Semantic Annotation without the Pointy Brackets – an introduction to Recogito | Rebecca Kahn, Rainer Simon (?) |
+| 12:00 - 12:15   | *Break*                                                      |                                |
+| 12:15 - 13:00   | Semantic Annotation without the Pointy Brackets – an introduction to Recogito | Rebecca Kahn, Rainer Simon (?) |
 
 #### Exercise Session  [13:45 - 16:00]
 
@@ -95,15 +95,15 @@ Afternoon meeting (Ontology): 16:15 - 17:00
 
 #### Input Sessions
 
-|                 | Lecture                                                      | Lecturer                         |
-| --------------- | ------------------------------------------------------------ | -------------------------------- |
-| 09:00 - 09:45   | Semantic Annotation without the Pointy Brackets – <br />an introduction to Recogito | Rebecca Kahn, Rainer Simon (?)   |
-| *09:45 - 10:00* | *Break*                                                      |                                  |
-| 10:15 - 11:00   | Semantic Annotation without the Pointy Brackets – <br />an introduction to Recogito | Rebecca Kahn, Rainer Simon (?)   |
-| *11:00 - 11:15* | *Break*                                                      |                                  |
-| 11:15 - 12:00   | Linked Data in Linguistics                                   | John McCrae,Thierry Declerck (?) |
-| 12:00 - 12:15   | *Break*                                                      |                                  |
-| 12:15 - 13:00   | Linked Data in Linguistics                                   | John McCrae,Thierry Declerck (?) |
+|                   | Lecture                                | Lecturer                         |
+| ----------------- | -------------------------------------- | -------------------------------- |
+| 09:00 - 09:45     | Linked Data Curation using Open Refine | Christian Steiner (?)            |
+| *09:45 - 10:00*   | *Break*                                |                                  |
+| 10:00 - 11:00     | Linked Data Curation using Open Refine | Christian Steiner (?)            |
+| *11:00* *- 11:15* | *Break*                                |                                  |
+| 11:15 - 12:00     | Linked Data in Linguistics             | John McCrae,Thierry Declerck (?) |
+| 12:00 - 12:15     | *Break*                                |                                  |
+| 12:15 - 13:00     | Linked Data in Linguistics             | John McCrae,Thierry Declerck (?) |
 
 #### Exercise Session  [13:15 - 16:00]
 
