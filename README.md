@@ -8,7 +8,9 @@ Participants will be organized in small groups and will have their own tutor, wh
 
 ## Program
 
-### Tuesday - 06.04
+### Tuesday - 06.04.2021
+
+------
 
 #### Input Session
 
@@ -29,7 +31,9 @@ Working Time: 15:00 - 16:00
 
 Afternoon meeting: 16:30 - 17:30
 
-### Wednesday - 07.04
+### Wednesday - 07.04.2021
+
+------
 
 #### Input Session
 
@@ -49,7 +53,9 @@ Afternoon meeting: 15:00 - 16:00
 
 Public lecture: 16:15 - 17:15
 
-### Thursday - 08.04
+### Thursday - 08.04.2021
+
+------
 
 #### Input Session
 
@@ -69,7 +75,9 @@ Afternoon meeting: 15:00 - 16:00
 
 Lightning Talks / Poster: 16:15 - 17:15
 
-### Friday  - 09.04
+### Friday  - 09.04.2021
+
+------
 
 #### Input Session
 
