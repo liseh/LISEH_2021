@@ -48,8 +48,6 @@ Afternoon meeting: 16:15 - 17:00
 | 11:15 - 12:00   | Linked Data Curation using Open Refine     | Christian Steiner (?) |
 | 12:00 - 12:15   | *Break*                                    |                       |
 | 12:15 - 13:00   | Linked Data Curation using Open Refine     | Christian Steiner (?) |
-|                 |                                            |                       |
-|                 |                                            |                       |
 
 #### Exercise Session  [13:45 - 16:00]
 
@@ -109,6 +107,6 @@ Working Time: 13:30 - 15:00
 
 Afternoon meeting: 15:00 - 16:00
 
-Closing: 16:00 - 17:30
+Closing: 16:00 - 16:30
 
 ## Further Learning Material
