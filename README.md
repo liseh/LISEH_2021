@@ -10,9 +10,7 @@ Participants will be organized in small groups and will have their own tutor, wh
 
 ### Tuesday - 06.04.2021
 
-------
-
-#### Input Session
+#### Input Sessions
 
 |                 | Lecture                                                      | Lecturer                                     | Note |
 | --------------- | ------------------------------------------------------------ | -------------------------------------------- | ---- |
@@ -25,17 +23,15 @@ Participants will be organized in small groups and will have their own tutor, wh
 | 13:00 - 14:00   | *Break*                                                      |                                              |      |
 | 14:00 - 15:00   | A small introduction to SPARQL                               | (?)                                          |      |
 
-#### Exercise Session [15:00 - 17:30]
+#### Exercise Session [15:15 - 17:30]
 
-Working Time: 15:00 - 16:00
+Working Time: 15:15 - 16:15
 
 Afternoon meeting: 16:30 - 17:30
 
 ### Wednesday - 07.04.2021
 
-------
-
-#### Input Session
+#### Input Sessions
 
 |                 | Lecture                                | Lecturer                                | Note |
 | --------------- | -------------------------------------- | --------------------------------------- | ---- |
@@ -51,13 +47,11 @@ Working Time: 13:15 - 15:00
 
 Afternoon meeting: 15:00 - 16:00
 
-Public lecture: 16:15 - 17:15
+Public lecture: 16:15 - 17:30
 
 ### Thursday - 08.04.2021
 
-------
-
-#### Input Session
+#### Input Sessions
 
 |                 | Lecture                  | Lecturer              | Note |
 | --------------- | ------------------------ | --------------------- | ---- |
@@ -73,13 +67,11 @@ Working Time: 13:15 - 15:00
 
 Afternoon meeting: 15:00 - 16:00
 
-Lightning Talks / Poster: 16:15 - 17:15
+Lightning Talks / Poster: 16:15 - 17:30
 
 ### Friday  - 09.04.2021
 
-------
-
-#### Input Session
+### Input Sessions
 
 |                 | Lecture                                                      | Lecturer                            | Note |
 | --------------- | ------------------------------------------------------------ | ----------------------------------- | ---- |
