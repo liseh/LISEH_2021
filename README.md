@@ -14,16 +14,16 @@ Participants will be organized in small groups and will have their own tutor, wh
 
 #### Input Sessions
 
-|                 | Lecture                                                      | Lecturer                                     |
-| --------------- | ------------------------------------------------------------ | -------------------------------------------- |
-| 09:00 - 09:45   | Welcoming, Program overview                                  |                                              |
-| 09:45 - 10:30   | General introduction                                         | Georg Vogeler (?)                            |
-| *10:30 - 10:45* | *Break*                                                      |                                              |
-| 10:45 - 11:30   | [Identifying standards and technologies: Web of Data Technology Stack](https://docs.google.com/presentation/d/1T7SW8qbnpFYdLQEOIN8StRZJ4cMedFHYWL08Ve35WXI/edit?usp=sharing) | Christopher Pollin, <br />Gerlinde Schneider |
-| 11:30 - 11:45   | *Break*                                                      |                                              |
-| 11:45 - 12:30   | Identifying standards and technologies: RDF & RDFS           | Christopher Pollin, <br />Gerlinde Schneider |
-| 12:30 - 12:45   | *Break*                                                      |                                              |
-| 12:45 - 13:30   | Identifying standards and technologies: SPARQL               | (?)                                          |
+|                 | Lecture                                                      | Lecturer                               |
+| --------------- | ------------------------------------------------------------ | -------------------------------------- |
+| 09:00 - 09:45   | Welcoming, Program overview                                  |                                        |
+| 09:45 - 10:30   | General introduction                                         | Georg Vogeler (?)                      |
+| *10:30 - 10:45* | *Break*                                                      |                                        |
+| 10:45 - 11:30   | [Identifying standards and technologies: Web of Data Technology Stack](https://docs.google.com/presentation/d/1T7SW8qbnpFYdLQEOIN8StRZJ4cMedFHYWL08Ve35WXI/edit?usp=sharing) | Gerlinde Schneider, Christopher Pollin |
+| 11:30 - 11:45   | *Break*                                                      |                                        |
+| 11:45 - 12:30   | Identifying standards and technologies: RDF & RDFS           | Gerlinde Schneider, Christopher Pollin |
+| 12:30 - 12:45   | *Break*                                                      |                                        |
+| 12:45 - 13:30   | Identifying standards and technologies: SPARQL               | (?)                                    |
 
 #### Exercise Session [14:15 - 16:00]
 
@@ -95,15 +95,15 @@ Afternoon meeting (Ontology): 16:15 - 17:00
 
 #### Input Sessions
 
-|                 | Lecture                                                      | Lecturer                                |
-| --------------- | ------------------------------------------------------------ | --------------------------------------- |
-| 09:00 - 09:45   | Semantic Annotation without the Pointy Brackets – <br />an introduction to Recogito | Rebecca Kahn,<br />Rainer Simon (?)     |
-| *09:45 - 10:00* | *Break*                                                      |                                         |
-| 10:15 - 11:00   | Semantic Annotation without the Pointy Brackets – <br />an introduction to Recogito | Rebecca Kahn,<br />Rainer Simon (?)     |
-| *11:00 - 11:15* | *Break*                                                      |                                         |
-| 11:15 - 12:00   | Linked Data in Linguistics                                   | John McCrae, <br />Thierry Declerck (?) |
-| 12:00 - 12:15   | *Break*                                                      |                                         |
-| 12:15 - 13:00   | Linked Data in Linguistics                                   | John McCrae, <br />Thierry Declerck (?) |
+|                 | Lecture                                                      | Lecturer                         |
+| --------------- | ------------------------------------------------------------ | -------------------------------- |
+| 09:00 - 09:45   | Semantic Annotation without the Pointy Brackets – <br />an introduction to Recogito | Rebecca Kahn, Rainer Simon (?)   |
+| *09:45 - 10:00* | *Break*                                                      |                                  |
+| 10:15 - 11:00   | Semantic Annotation without the Pointy Brackets – <br />an introduction to Recogito | Rebecca Kahn, Rainer Simon (?)   |
+| *11:00 - 11:15* | *Break*                                                      |                                  |
+| 11:15 - 12:00   | Linked Data in Linguistics                                   | John McCrae,Thierry Declerck (?) |
+| 12:00 - 12:15   | *Break*                                                      |                                  |
+| 12:15 - 13:00   | Linked Data in Linguistics                                   | John McCrae,Thierry Declerck (?) |
 
 #### Exercise Session  [13:15 - 16:00]
 
