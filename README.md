@@ -45,13 +45,13 @@ Lightning Talks / Poster Session: 16:15 - 17:30
 
 |                 | Lecture                                                      | Lecturer                       |
 | :-------------- | ------------------------------------------------------------ | ------------------------------ |
-| 09:00 - 09:45   | Querying the web of data (Rest and SPARQL)                   | Matthias Schlögl (?)           |
+| 09:00 - 09:45   | Querying the web of data (Rest and SPARQL)                   | Matthias Schlögl               |
 | *09:45 - 10:00* | *Break*                                                      |                                |
-| 10:00 - 10:45   | Querying the web of data (Rest and SPARQL)                   | Matthias Schlögl (?)           |
+| 10:00 - 10:45   | Querying the web of data (Rest and SPARQL)                   | Matthias Schlögl               |
 | *11:00 - 11:15* | *Break*                                                      |                                |
-| 11:15 - 12:00   | Semantic Annotation without the Pointy Brackets – an introduction to Recogito | Rebecca Kahn, Rainer Simon (?) |
+| 11:15 - 12:00   | Semantic Annotation without the Pointy Brackets – an introduction to Recogito | Rebecca Kahn, Rainer Simon|
 | 12:00 - 12:15   | *Break*                                                      |                                |
-| 12:15 - 13:00   | Semantic Annotation without the Pointy Brackets – an introduction to Recogito | Rebecca Kahn, Rainer Simon (?) |
+| 12:15 - 13:00   | Semantic Annotation without the Pointy Brackets – an introduction to Recogito | Rebecca Kahn, Rainer Simon|
 
 #### Exercise Session  [13:45 - 16:00]
 
@@ -71,9 +71,9 @@ Public lecture: 16:15 - 17:30  (Harald Sack ?)
 
 |                 | Lecture                    | Lecturer              |
 | --------------- | -------------------------- | --------------------- |
-| 09:00 - 09:45   | Introduction to Ontology 1 | Frederike Neuber (?)  |
+| 09:00 - 09:45   | Introduction to Ontology 1 | (?)  |
 | 09:45 - 10:00   | *Break*                    |                       |
-| 10:15 - 11:00   | Introduction to Ontology 2 | Frederike Neuber (?)  |
+| 10:15 - 11:00   | Introduction to Ontology 2 | (?)  |
 | *11:00 - 11:15* | *Break*                    |                       |
 | 11:15 - 12:00   | CIDCO                      | Athanasios Velios (?) |
 | 12:00 - 12:15   | *Break*                    |                       |
@@ -99,13 +99,13 @@ Afternoon meeting (Ontology): 16:15 - 17:00
 
 |                   | Lecture                                | Lecturer                         |
 | ----------------- | -------------------------------------- | -------------------------------- |
-| 09:00 - 09:45     | Linked Data Curation using Open Refine | Christian Steiner (?)            |
+| 09:00 - 09:45     | Linked Data Curation using Open Refine | Christian Steiner            |
 | *09:45 - 10:00*   | *Break*                                |                                  |
-| 10:00 - 11:00     | Linked Data Curation using Open Refine | Christian Steiner (?)            |
+| 10:00 - 11:00     | Linked Data Curation using Open Refine | Christian Steiner           |
 | *11:00* *- 11:15* | *Break*                                |                                  |
-| 11:15 - 12:00     | Linked Data in Linguistics             | John McCrae,Thierry Declerck (?) |
+| 11:15 - 12:00     | Linked Data in Linguistics             | John McCrae,Thierry Declerck |
 | 12:00 - 12:15     | *Break*                                |                                  |
-| 12:15 - 13:00     | Linked Data in Linguistics             | John McCrae,Thierry Declerck (?) |
+| 12:15 - 13:00     | Linked Data in Linguistics             | John McCrae,Thierry Declerck |
 
 #### Exercise Session  [13:15 - 16:00]
 
