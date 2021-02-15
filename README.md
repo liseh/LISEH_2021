@@ -71,9 +71,9 @@ Public lecture: 16:15 - 17:30  (tba)
 
 |                 | Lecture                    | Lecturer              |
 | --------------- | -------------------------- | --------------------- |
-| 09:00 - 09:45   | Introduction to Ontology 1 | (tba)        |
+| 09:00 - 09:45   | Introduction to Ontology 1 | Darko Hric            |
 | 09:45 - 10:00   | *Break*                    |                       |
-| 10:15 - 11:00   | Introduction to Ontology 2 | (tba)       |
+| 10:15 - 11:00   | Introduction to Ontology 2 | Darko Hric            |
 | *11:00 - 11:15* | *Break*                    |                       |
 | 11:15 - 12:00   | CIDCO                      | (tba) |
 | 12:00 - 12:15   | *Break*                    |                       |
