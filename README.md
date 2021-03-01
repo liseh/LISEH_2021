@@ -61,8 +61,6 @@ Working Time: 13:45 - 15:00
 
 Afternoon meeting: 15:00 - 16:00
 
-Public lecture: 16:15 - 17:30  (tba)
-
 ### Thursday - 08.04.2021
 
 ------
@@ -75,21 +73,21 @@ Public lecture: 16:15 - 17:30  (tba)
 | 09:45 - 10:00   | *Break*                    |                       |
 | 10:15 - 11:00   | Introduction to Ontology 2 | Darko Hric            |
 | *11:00 - 11:15* | *Break*                    |                       |
-| 11:15 - 12:00   | CIDOC-CRM                      | (tba) |
+| 11:15 - 12:00   | CIDOC-CRM                  | (tba) |
 | 12:00 - 12:15   | *Break*                    |                       |
-| 12:15 - 13:00   | CIDOC-CRM                       | (tba) |
+| 12:15 - 13:00   | CIDOC-CRM                  | (tba) |
 
 #### Exercise Session  [13:45 - 17:00]
 
 Exercise
 
-Working Time (CIDOC) : 13:45 - 14:30
+Working Time: 13:45 - 14:30
 
 Afternoon meeting (CIDOC): 14:30 - 15:15
 
-Working Time (Ontology) : 15:30 - 16:15
+Afternoon meeting (Ontology) : 15:15 - 16:00
 
-Afternoon meeting (Ontology): 16:15 - 17:00
+__Public lecture: 16:15 - 17:30  (Albert Meroño Peñuela)__
 
 ### Friday  - 09.04.2021
 
