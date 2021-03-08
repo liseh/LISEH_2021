@@ -73,9 +73,9 @@ Afternoon meeting: 15:00 - 16:00
 | 09:45 - 10:00   | *Break*                    |                       |
 | 10:15 - 11:00   | Introduction to Ontology 2 | Darko Hric            |
 | *11:00 - 11:15* | *Break*                    |                       |
-| 11:15 - 12:00   | CIDOC-CRM                  | (tba) |
+| 11:15 - 12:00   | CIDOC-CRM                  | George Bruseker       |
 | 12:00 - 12:15   | *Break*                    |                       |
-| 12:15 - 13:00   | CIDOC-CRM                  | (tba) |
+| 12:15 - 13:00   | CIDOC-CRM                  | George Bruseker       |
 
 #### Exercise Session  [13:45 - 17:00]
 
