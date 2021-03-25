@@ -1,6 +1,6 @@
 # LISEH 2021
 
-LISEH 2021 takes place virtually. During the morning session will be lectures of 45 min each. The input sessions are complimented by exercises in the afternoon, the *Lightning Talks* or the *Public Lecture*. All of the exercises are designed in such a way that they consist of a *Working time* on your own or in groups together with a tutor and of the Afternoon meeting, where the solutions are discussed.
+LISEH 2021 takes place virtually. During the morning session will be lectures of 45 min each. The input sessions are complemented by exercises in the afternoon, the *Lightning Talks* or the *Public Lecture*. All of the exercises are designed in such a way that they consist of a *Working time* on your own or in groups together with a tutor and of the Afternoon meeting, where the solutions are discussed.
 
 Lectures and tutorials will take place via Zoom. Here on this page you can find all materials. Communication is supported using a Slack Workspace. There you can ask questions,discuss the exercise and chat.
 
