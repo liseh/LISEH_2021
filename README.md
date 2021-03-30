@@ -105,9 +105,9 @@ __Public lecture: 16:15 - 17:30  (Albert Meroño Peñuela)__
 | 12:00 - 12:15     | *Break*                                |                                  |
 | 12:15 - 13:00     | Linked Data in Linguistics             | John McCrae, Thierry Declerck    |
 
-#### Exercise Session  [13:15 - 16:00]
+#### Exercise Session  [13:45 - 16:00]
 
-Working Time: 13:30 - 15:00
+Working Time: 13:45 - 15:00
 
 Afternoon meeting: 15:00 - 16:00
 
