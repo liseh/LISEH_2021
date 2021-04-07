@@ -51,7 +51,7 @@ Lightning Talks / Poster Session: 16:15 - 17:30
 | *11:00 - 11:15* | *Break*                                                      |                                |
 | 11:15 - 12:00   | Semantic Annotation without the Pointy Brackets – an introduction to Recogito | Rebecca Kahn, Rainer Simon|
 | 12:00 - 12:15   | *Break*                                                      |                                |
-| 12:15 - 13:00   | Semantic Annotation without the Pointy Brackets – an introduction to Recogito | Rebecca Kahn, Rainer Simon|
+| 12:15 - 13:00   | Wikidata, Linked Data... all the data!  Knowledge representation for everybody. | Rebecca Kahn, Rainer Simon|
 
 #### Exercise Session  [13:45 - 16:00]
 
