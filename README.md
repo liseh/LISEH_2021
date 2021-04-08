@@ -77,15 +77,13 @@ Afternoon meeting: 15:00 - 16:00
 | 12:00 - 12:15   | *Break*                    |                       |
 | 12:15 - 13:00   | CIDOC-CRM                  | George Bruseker       |
 
-#### Exercise Session  [13:45 - 17:00]
+#### Exercise Session  [13:45 - 16:00]
 
 Exercise
 
-Working Time: 13:45 - 14:30
+Working Time: 13:45 - 15:00
 
-Afternoon meeting (CIDOC): 14:30 - 15:15
-
-Afternoon meeting (Ontology) : 15:15 - 16:00
+Afternoon meeting: 15:00 - 16:00
 
 __Public lecture: 16:15 - 17:30  (Albert Meroño Peñuela)__
 
