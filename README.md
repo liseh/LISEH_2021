@@ -69,13 +69,13 @@ Afternoon meeting: 15:00 - 16:00
 
 |                 | Lecture                    | Lecturer              |
 | --------------- | -------------------------- | --------------------- |
-| 09:00 - 09:45   | Introduction to Ontology 1 | Darko Hric            |
+| 09:00 - 09:45   | Introduction to Ontology | Darko Hric            |
 | 09:45 - 10:00   | *Break*                    |                       |
-| 10:15 - 11:00   | Introduction to Ontology 2 | Darko Hric            |
+| 10:15 - 11:00   | Introduction to Ontology | Darko Hric            |
 | *11:00 - 11:15* | *Break*                    |                       |
-| 11:15 - 12:00   | CIDOC-CRM                  | George Bruseker       |
+| 11:15 - 12:00   | The CIDOC CRM for Digital Humanities: what, why? | George Bruseker       |
 | 12:00 - 12:15   | *Break*                    |                       |
-| 12:15 - 13:00   | CIDOC-CRM                  | George Bruseker       |
+| 12:15 - 13:00   | The CIDOC CRM for Digital Humanities: what, why? | George Bruseker       |
 
 #### Exercise Session  [13:45 - 16:00]
 
