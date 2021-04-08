@@ -85,9 +85,7 @@ Working Time: 13:45 - 15:00
 
 Afternoon meeting: 15:00 - 16:00
 
-__Public lecture: 16:15 - 17:30  (Albert Meroño Peñuela)__
-
-The knowledge in the soundtrack of History
+__Public lecture: 16:15 - 17:30 - The knowledge in the soundtrack of History  (Albert Meroño Peñuela)__
 
 Knowledge graphs leveraging semantic technologies and Linked Data are becoming prevalent in the Web, connecting the world’s knowledge in archives, science workflows, and industry. However, knowledge graphs typically assume that knowledge either comes from structured databases, or has an inherent textual origin from natural language expressions. In this talk, I will present some of my work in deploying knowledge graphs and semantic technologies for various disciplines of the Digital Humanities, in particular History and Musicology, that challenge these assumptions and investigate how knowledge from multimodal sources can be integrated, played, and socially interrogated using collaborative querying.
 
