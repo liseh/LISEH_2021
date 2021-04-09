@@ -101,9 +101,9 @@ Knowledge graphs leveraging semantic technologies and Linked Data are becoming p
 | *09:45 - 10:00*   | *Break*                                |                                  |
 | 10:00 - 11:00     | Linked Data Curation using Open Refine | Christian Steiner                |
 | *11:00* *- 11:15* | *Break*                                |                                  |
-| 11:15 - 12:00     | Linked Data in Linguistics             | John McCrae, Thierry Declerck    |
+| 11:15 - 12:00     | Linked Data in Linguistics             | Thierry Declerck                 |
 | 12:00 - 12:15     | *Break*                                |                                  |
-| 12:15 - 13:00     | Linked Data in Linguistics             | John McCrae, Thierry Declerck    |
+| 12:15 - 13:00     | Introduction to the OntoLex-Lemon Model | John McCrae                     |
 
 #### Exercise Session  [13:45 - 16:00]
 
